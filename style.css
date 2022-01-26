@@ -28,3 +28,8 @@
 .Links {
   text-align: center;
 }
+
+a:hover {
+  color: blue;
+  text-align: left;
+}
